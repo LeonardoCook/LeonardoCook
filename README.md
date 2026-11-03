@@ -1,74 +1,65 @@
-
-
 <div align="center">
 
-# Lennart Koch
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:142B52,100:315B9D&height=200&section=header&text=Lennart%20Koch&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%2F%2F%20Founder&descAlignY=65&descSize=15&animation=fadeIn" />
 
-**App Developer from Germany**
+### Building useful things
 
-Recently graduated from high school and building apps, websites
-and hardware projects with Raspberry Pi.
-
-[CASify](https://casify.website) · [Email](mailto:kontakt@casify.website)
+I'm a developer from Germany interested in software, technology and hardware projects. I enjoy turning ideas into working products.
 
 </div>
 
 ---
 
-
-## About Me
-
-I'm Lennart, a 19-year-old developer from Germany who recently graduated from high school.
-
-I enjoy turning ideas into real projects, learning new technologies and building things myself — from mobile apps and websites to hardware projects with Raspberry Pi.
-
----
-
-## Currently Building
+## Featured Project
 
 <div align="center">
 
-
-### CASify
-
-**Making the TI-Nspire CX CAS easier to understand.**
+<a href="https://casify.website">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101D35,100:1D477A&height=65&section=header&text=CASify&fontSize=30&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" />
+</a>
 
 </div>
 
-CASify is a learning app for students who use the TI-Nspire CX CAS calculator.
+**CASify** is an app that helps students understand and use their TI-Nspire CX CAS calculator.
 
-I started building it during my own Abitur preparation because I wanted a better way to learn the calculator.
+I started building it while preparing for my Abitur because I wanted a better way to learn the calculator and its functions.
 
-- Step-by-step explanations for calculator functions
-- Designed for high school students
-- Continuously adding new features and content
+- Step-by-step explanations
+- Topics tailored to German high school education
+- Practical examples and calculator instructions
 
 <div align="center">
 
-[**Visit casify.website →**](https://casify.website)
+[**Explore CASify →**](https://casify.website)
 
 </div>
 
 ---
 
-## Raspberry Pi & Hardware
-
-I love experimenting with Raspberry Pis and building projects that combine software, electronics and sensors.
+## What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Smart Home
+### Apps & Software
 
-Raspberry Pi-based home automation projects, experimenting with sensors and ways to make everyday things smarter.
+I enjoy building applications that solve real problems and make things easier to understand or use.
+
+- Developing CASify and other app ideas
+- Building useful software and digital tools
+- Exploring app design and user experience
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Garage Parking Sensor
+### Raspberry Pi & Hardware
 
-Built a sensor system that detects when a car enters the garage and automatically turns on the lights.
+I like combining software and hardware to create practical projects and experiment with technology.
+
+- Smart home projects and automation
+- Raspberry Pi garage parking sensor with automatic lighting
+- Sensors, electronics and hardware experiments
 
 </td>
 </tr>
@@ -76,34 +67,50 @@ Built a sensor system that detects when a car enters the garage and automaticall
 
 ---
 
-## Web Development
-
-I also enjoy designing and building websites, exploring frontend technologies and experimenting with different layouts and ideas.
-
----
-
-## Tech Stack
+## Tech Stack & Tools
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="Languages"/>
-
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,nodejs,figma,git,github" alt="Frameworks and tools"/>
-
-### Hardware
-<img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi"/>
+<img src="https://skillicons.dev/icons?i=ts,css,html,py,react,figma,raspberrypi,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## Let's Connect
+## GitHub Activity
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kontakt%40casify.website-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:kontakt@casify.website)
-[![Website](https://img.shields.io/badge/Website-CASify-111111?style=flat-square&logo=safari&logoColor=white)](https://casify.website)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeonardoCook&show_icons=true&hide_border=true&bg_color=080D1A&title_color=6EA8FE&icon_color=6EA8FE&text_color=C9D1D9&ring_color=6EA8FE" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCook&layout=compact&hide_border=true&bg_color=080D1A&title_color=6EA8FE&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoCook&bg_color=080D1A&color=C9D1D9&line=6EA8FE&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Have an interesting project in mind?
+
+I'm always interested in connecting with other developers and makers.
+
+[**Get in touch →**](mailto:kontakt@casify.website)
+
+<br/>
+
+[![Website](https://img.shields.io/badge/CASify-172B4D?style=flat-square&logo=safari&logoColor=white)](https://casify.website)
+[![GitHub](https://img.shields.io/badge/GitHub-LeonardoCook-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/LeonardoCook)
+[![Email](https://img.shields.io/badge/Email-Contact-172B4D?style=flat-square&logo=gmail&logoColor=white)](mailto:kontakt@casify.website)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:315B9D,50:142B52,100:080D1A&height=90&section=footer" width="100%" />
+
+<sub>Designed with curiosity. Built with code.</sub>
 
 </div>
