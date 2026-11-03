@@ -2,6 +2,12 @@
 
 
 My name is Lennart
+
+I am a 19-year-old app developer from Germany.
+
+I develop educational apps for students.
+
+I'm currently working on CASify, a TI-Nspire CAS tutor helping students to understand their calculator
 <!--
 ## My name is Lennart
 **LeonardoCook/LeonardoCook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
