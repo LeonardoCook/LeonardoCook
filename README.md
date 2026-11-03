@@ -77,19 +77,7 @@ I like combining software and hardware to create practical projects and experime
 
 ---
 
-## GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeonardoCook&show_icons=true&hide_border=true&bg_color=080D1A&title_color=6EA8FE&icon_color=6EA8FE&text_color=C9D1D9&ring_color=6EA8FE" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCook&layout=compact&hide_border=true&bg_color=080D1A&title_color=6EA8FE&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoCook&bg_color=080D1A&color=C9D1D9&line=6EA8FE&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
 
 ---
 
@@ -110,7 +98,5 @@ I'm always interested in connecting with other developers and makers.
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:315B9D,50:142B52,100:080D1A&height=90&section=footer" width="100%" />
-
-<sub>Designed with curiosity. Built with code.</sub>
 
 </div>
