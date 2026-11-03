@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello 👋
 
 
 My name is Lennart
